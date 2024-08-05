@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-decoration-color: aquamarine;
+}
+.window1{
+    text-align: center;
+    background-color: aliceblue;
+}
+.par1{
+    text-align: center;
+    text-decoration: dashed;
+    background-color: chartreuse;
+}
+.bod{
+    background-color: darkgray;
+}
+* {background-color:beige}
